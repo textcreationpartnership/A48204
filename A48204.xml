@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a member of this present Parliament, for liberty of conscience</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48204</idno>
+            <idno type="STC">Wing L1688</idno>
+            <idno type="STC">ESTC R17846</idno>
+            <idno type="EEBO-CITATION">12728427</idno>
+            <idno type="OCLC">ocm 12728427</idno>
+            <idno type="VID">66395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66395)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 987:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a member of this present Parliament, for liberty of conscience</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66395:1" rendition="simple:additions"/>
+            <p>A LETTER TO A MEMBER Of this Preſent PARLIAMENT, FOR LIBERTY OF Conſcience.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:66395:2"/>
+            <pb n="3" facs="tcp:66395:2"/>
+            <head>A LETTER For Liberty of CONSCIENCE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Could heartily wiſh, that our Condition at preſent were ſuch, that we might ſtudy and debate how to advance the Glory, Riches and Power of this Nation, rather then with ſo much Diſtraction, labour, how to pre<g ref="char:EOLhyphen"/>ſerve its Being. But ſince the general ill Conduct of our Affairs under the late Chan<g ref="char:EOLhyphen"/>cellour and others, (for whom we ought to retain all due reſentments, ſince they have reduced us to this neceſſitous poſture.) Let us conſider what our preſent Exigencies call for from us; and while therein we find a juſtification for the moſt extravagant debates and reſolutions, let us continue ſenſible of their baſeneſs who created the neceſſity, with which it is our prudence and unhappineſs to comply.</p>
+            <p>There have been ſundry Overtures and Projects in order to the Uniting of the minds of the Proteſtants here in this dangerous juncture of Affairs: I confeſs I am apprehenſive of the dangers that any great change ſubjects a Govern<g ref="char:EOLhyphen"/>ment unto; I am ſenſible of the Reputation of the Houſe, which may ſuffer by reſcinding its own Acts: I have made ſome reflections upon the parties that may endanger the
+<pb n="4" facs="tcp:66395:3"/>Kingdome by their factiouſneſs: I have all juſt reſpect for the National Church of <hi>England</hi> in its preſent Conſtitu<g ref="char:EOLhyphen"/>tion; and I ſhall ſo order my Councels, that I deviat not from the Scripture, and the Conſtitution of God in the Mo<g ref="char:EOLhyphen"/>ſaical Law, the Judgement and Practiſe of the primitive Fathers, and the Acts and Conſtitutions of thoſe Empe<g ref="char:EOLhyphen"/>rours who firſt modelled Chriſtianity, and accommodated it to Government, and who reduced the Empire (in circum<g ref="char:EOLhyphen"/>ſtances not much different from ours) to as flouriſhing a condition, and as peaceable as ever it enjoyed.<note n="*" place="margin">As is clear from the Emperour <hi>Theodoſius</hi> ſurnamed the Great; and inſiſted on by <hi>Bodin de repub.</hi> who recommends the practiſe as prudential, and gave the Counſel to Queen <hi>Elizab.</hi>
+               </note>
+            </p>
+            <p>In the Kingdome of <hi>Iſrael</hi> (that great Preſident for Mo<g ref="char:EOLhyphen"/>narchy, as far as it is eſtabliſhed by the Word of God) where God himſelf was Law-giver, and the Conſtitution is as unqueſtionable as his Authority that made it, and the wiſdome of <hi>Solomon</hi> and ſome others (no Fools, nor Fana<g ref="char:EOLhyphen"/>ticks) that complyed with it. The Settlement was thus as to Religion. The Jews, and ſuch as were total Converts or Proſelites of Juſtice, did obſerve all the Levitical Law, as it is made up of Ceremonies, and all the Decalogue or Ten Com<g ref="char:EOLhyphen"/>mandments. What the ceremonial conformity was you all know: and how much of it was performed in the Temple, in the ſeveral places or ſtations for the Prieſts, and Laity, Men and Women? But did this conſtitution oblige all? Could no man, or number of men live, and live openly there exem<g ref="char:EOLhyphen"/>pted from this Conformity, and exact Uniformity to every punctilio? It is undeniable that it was quite otherwiſe. There were among the Jews a great number of perſons, cal<g ref="char:EOLhyphen"/>led <hi>proſyliti domicilii,</hi> or ſtrangers not proſelytes of juſtice, that dwelt conſtantly among them, that were ſo far from being concluded by the Moſaical Law, that it was death for them to obſerve it. Of this number were many <hi>Aegy<g ref="char:EOLhyphen"/>ptians</hi> that came up with them into the <hi>Holy Land:</hi> Such were the <hi>Gibeonites,</hi> of whoſe number we may gueſs by the bigneſs of their City: Such were the <hi>Canaanites</hi> that dwelt in the land, whoſe power was ſuch, that they could not be
+<pb n="5" facs="tcp:66395:3"/>exterminated by the <hi>Iſraelites.</hi> All theſe ſtrangers (yet conſtant inhabitants of the Land) were onely obliged to the ſeven Commandements of <hi>Noah,</hi> and not to the Cere<g ref="char:EOLhyphen"/>monial Law at all. They worſhipped in the ſame Tem<g ref="char:EOLhyphen"/>ple, in a particular apartment, but with different Cere<g ref="char:EOLhyphen"/>monies: the Jews had a Liturgy, theſe no Form: they had Prieſts, theſe none: the Jewes offered variety of Sa<g ref="char:EOLhyphen"/>crifices and Oblations, theſe none but burnt offerings: the one obſerved the Sabbath, and divers Holy dayes, on the which the other might work, nay, the one worſhip<g ref="char:EOLhyphen"/>ped God under ſeveral attributes, the God of <hi>Abraham, Iſaac</hi> and <hi>Jacob;</hi> the other was not obliged actually to any worſhip, but negatively not to deny a Deity, or to ſpeak irreverently or contumeliouſly of him: and when they did pray, it was onely the owning and worſhipping a Creatour and Ruler of the world. <hi>This is avowed by the greateſt of the</hi> Rabbines <hi>from the time of</hi> Moſes, <hi>to the time of his writing, and that is</hi> Maimonides:<note n="(a)" place="margin">Gentilis qui legem <hi>Moſaicam</hi> obſer<g ref="char:EOLhyphen"/>varet, reus erat mortis; quippe cui tantum ob<g ref="char:EOLhyphen"/>ſervanda erant ſeptem praecepta <hi>Noachidarum</hi> ſeu omnium hominum communia.</note> 
+               <hi>and is at large proved by Mr.</hi> Selden,<note n="(b)" place="margin">Jus naturale Hebraeorum.</note> 
+               <hi>and granted in the whole extent, as I have propoſed it, by the learned</hi> Grotius,<note n="(c)" place="margin">
+                  <hi>De Jur. Bell,</hi> cap. 1. lib. 1 par. 16.</note> 
+               <hi>a man of good credit with all Sons of the Church of</hi> En<g ref="char:EOLhyphen"/>gland: <hi>Of the ſame mind are all that write of the Common-Wealth of the Jewes.</hi> As to the obſervation of the Sabbath,<note n="(d)" place="margin">Proſelytos domicilii ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve eos qui Ju<g ref="char:EOLhyphen"/>daiſino nomina nondum dedera innt, qualecun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vitae commercium intra ditionem <hi>Iſraeliticam</hi> admiſſi, non modò obſervatione Sabbati omninò ſolutes habnere, ſed poems graviſſimis obnoxios, ſi obſervarent.</note> (were it not for fear of being prolix) I would particularly illuſtrate that point, becauſe it is a Diſpenſation with a Conformity with one of the Ten Commandments; <hi>which is at large proved too by Mr.</hi> Selden.<note n="(e)" place="margin">De Jur. Nat. l. 3. c. 12. and the <hi>Talmudiſts</hi> ſay, Iſraelitae <hi>non prohibent ab<g ref="char:EOLhyphen"/>opere Gentile<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in Sabbato.</hi>
+               </note>
+            </p>
+            <p>It is eaſie to compare this Liberty of Religion, with ours in <hi>England,</hi> as it is contended for, or oppoſed: and ac<g ref="char:EOLhyphen"/>cording to judge of the extent of a Tolleration, how far it may go, how publick it may be, how poſſible, and how pra<g ref="char:EOLhyphen"/>cticable the thing is in it ſelf (for they had no ſtanding
+<pb n="6" facs="tcp:66395:4"/>Army; and it was under a Monarchy, and that no deſpi<g ref="char:EOLhyphen"/>cable one, under <hi>Solomon</hi> and <hi>David</hi>) and how it had God himſelf for its eſtabliſher. I paſs by the times under <hi>Herod</hi> and his immediate predeceſſors from <hi>Zerobabel</hi> down wards, in which, beſide the aforeſaid ſtrangers, there were the ſe<g ref="char:EOLhyphen"/>veral Sects of Scribes, Phariſees, Sadduces, and Hero<g ref="char:EOLhyphen"/>dians, whoſe Tenets if any ſhall enquire into, he ſhall find them to differ as much as our ſubdivided Chriſtians and Proteſtants do:<note n="(f)" place="margin">As <hi>Sca<g ref="char:EOLhyphen"/>liger, Druſus,</hi> and <hi>Serrarius</hi> evidence.</note> As to the Eſſenes, it is peculiarly ob<g ref="char:EOLhyphen"/>ſervable that they declin'd the Temple-worſhip, and were the ſeparatiſts of that age: and yet I muſt tell you, this condition of the Jewes was not altogether unhappy, and our Saviour never told the Magiſtrates that it was unlaw<g ref="char:EOLhyphen"/>full, or that it would be the ruine of the ſtate; which cannot be otherwiſe then by accident imputed thereun<g ref="char:EOLhyphen"/>to.</p>
+            <p>As to the firſt Chriſtians, while thoſe unerring Guides of the Church inſtructed and ruled in the Church, and were as well the foundation of our Doctrine, as of our Hi<g ref="char:EOLhyphen"/>erarchy: let us take a view of their Eſtabliſhment. There were Converts of the Jewes, and Converts of the Gentiles, and of the Gentiles ſome were Proſelytes of the Moſaical Law, others of the profeſſion onely of the Seven Command<g ref="char:EOLhyphen"/>ments of <hi>Noah.</hi> The Jews, and ſuch as did Judaiſe, ob<g ref="char:EOLhyphen"/>ſerved all the Moſaical Law, as ſtrictly as the Phariſees did; they did circumciſe, and pay their vowes and wor<g ref="char:EOLhyphen"/>ſhip in the Temple, and offer Sacrifice, and kept the Sab<g ref="char:EOLhyphen"/>bath, and the like: <hi>So</hi> Origen<note n="*" place="margin">Judae iqui in Jeſum Chriſtum crediderunt, non deſciverunt a patri is legibus; vivunt enim ju<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ta eas contra celſum.</note> 
+               <hi>ſayes of thoſe in his dayes.</hi> Nor was this onely at <hi>Jeruſalem,</hi> where Judaiſm was National, but at <hi>Alexandria,</hi> and elſe-where, where it was not ſo: For St. <hi>Je<g ref="char:EOLhyphen"/>rome</hi>
+               <note n="(a)" place="margin">About Eccleſiaſtical Writers.</note> ſaith, <hi>that</hi> Philo <hi>the Jew obſerved this at</hi> Alexandria: Yet did the other converted Gentiles, not Judaiſing, live ac<g ref="char:EOLhyphen"/>cording to a Chriſtianity ſuperadded to the Seven Com<g ref="char:EOLhyphen"/>mandments, and conſequently differing in form of wor<g ref="char:EOLhyphen"/>ſhip vaſtly. It is true, ſome went about to reduce them all
+<pb n="7" facs="tcp:66395:4"/>to Uniformity; but who were they? Some of the Jewes (mark that) which believed (in Chriſt,<note place="margin">Some Bibles only ſay they were Hhari<g ref="char:EOLhyphen"/>ſees.</note> and yet ſtrictly obſerved the Moſaical Law,) of the Sect of the Phariſees, (a Sect ſo much decry'd by Chriſt) not the Apoſtles, and perſons ſpirited by the Holy Ghoſt; <hi>Paul</hi> and <hi>Barnabas</hi> op<g ref="char:EOLhyphen"/>poſed it. And what character doth the Scripture beſtow upon this deſign of Uniformity? In truth, that they trou<g ref="char:EOLhyphen"/>bled the Church, <hi>Acts</hi> 15. And behold the iſſue of theſe troubles. The Synod of the Apoſtles and others guided by the Holy Ghoſt, thus decide the Controverſie. They do not like this Uniformity of Worſhip and Liturgies; for the Jewes had a Liturgy. This is no part of the <hi>Viſum eſt ſpiritui ſancto &amp; nobis.</hi> No, they oblige them to a few, and thoſe ſuch as were onely neceſſary. <hi>For the Text, however vulgarly corrupted, and repreſented to eſtabliſh Eccleſiaſtical Deciſions as neceſſary: yet in our</hi> Biblia Polyglotta<note n="(b)" place="margin">It is not in the manuſcript of our Kings Library, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Beſide <hi>theſe</hi> ſubſequent <hi>neceſſary things.</hi>
+               </note> 
+               <hi>(a candid work of the Biſhops of our Church) in a Lection ſtands cor<g ref="char:EOLhyphen"/>rected thus: It ſeems meet to the Holy Ghoſt and us, not to lay upon you any further burthen,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>beſide what is abſolutely neceſſary: that is (ſay very learned Writers) the Seven Precepts of</hi> Noah: <hi>for who will believe the Holy Ghoſt thought it neceſſary to Salvation, that we neither eat black Puddings, or Rabbets? That which follows is an illuſtration, not reſtriction; forbidding blood-ſhed,</hi>
+               <note n="*" place="margin">See <hi>Selden de jure Nat.</hi> lib. 7. cap. 12. You muſt note that the text ſpeaks of things ſtrangled, and blood; but by blood is meant blood-ſhed; and things ſtrangled is an ad<g ref="char:EOLhyphen"/>dition to the text, as the Fathers obſerve, and the <hi>Biblia Polyglotta:</hi> and the other clauſe of avoiding that which they would not have done to them, is in old Copies, and ſo repeated by <hi>Irenaeus</hi> and others; as you may ſee in the place above in <hi>Selden.</hi>
+               </note> 
+               <hi>as well as Idolatry, and Fornica<g ref="char:EOLhyphen"/>tion: (parts of the Law of</hi> Noah) And further that Holy Synod adds, And whatſoever you would not have done to your ſelves, do not that to others; which is a De<g ref="char:EOLhyphen"/>ciſion I recommend to you in the like caſe, the debate being there as well as here, about Liberty of Conſcience. That Liberty which you would not be deprived of, do not go about to deprive others of<note n="(a)" place="margin">For the precedent words include things neceſſary: the following therefore muſt refer to the point of Ceremonial Conformity.</note>
+            </p>
+            <pb n="8" facs="tcp:66395:5"/>
+            <p>As to the tolleration under Chriſtian Emperours, I can<g ref="char:EOLhyphen"/>not but obſerve unto you Sir, That it was the judgement of thoſe primitive times, and every where diſcovers it ſelf in the Edicts of the firſt Chriſtian Emperours, and Fathers, that Religion is not to be inforced, but that every one ſhould abound in his own ſenſe, and that all variety not onely of Opinions, but diverſity of Religions ſhould be tol<g ref="char:EOLhyphen"/>lerated in the State, if they were not deſtructive to Go<g ref="char:EOLhyphen"/>vernment. <hi>In this point</hi> Tertullian<note n="(b)" place="margin">In his Diſcourſe to <hi>Scapula.</hi>
+               </note> 
+               <hi>is peremptory, and</hi> Lactantius;<note n="(c)" place="margin">In his Book <hi>de Juſtitia,</hi> ſpeaking of ſupporting Religion by Cruelty, Oppreſ<g ref="char:EOLhyphen"/>ſion and blood-ſhed, <hi>jam non defendetur illa, ſed polluetur et violabitur: Nihil enim eſt tam voluntarium quam religio.</hi>
+               </note> and agreeable <hi>to this is the Speech of</hi> Conſtantine<note n="(d)" place="margin">
+                  <hi>Related by</hi> Baronius <hi>in his Annals of the year 324.</hi> Inter divina et humana ſer<g ref="char:EOLhyphen"/>vitia hoc intereſt, quòd humana ſervitia coacta ſint, divina outem voluntaria comproben<g ref="char:EOLhyphen"/>tur.</note> 
+               <hi>to the Roman Senate;</hi> the particu<g ref="char:EOLhyphen"/>lar paſſages I would willingly re<g ref="char:EOLhyphen"/>cite, were there not, beſide pro<g ref="char:EOLhyphen"/>tracting this Diſcourſe, a great deal of pedantry in quoting Latin: And I ſhould be too tedious, ſhould I relate unto you all the Edicts made to this purpoſe by the ſubſe<g ref="char:EOLhyphen"/>quent Emperours, which are Re<g ref="char:EOLhyphen"/>corded in the <hi>Theodoſian Code.</hi> No learned Son of the Church of <hi>England</hi> can deny it; <hi>And</hi> Chryſoſtome <hi>is poſitive, that no Godly Emperour did Enact againſt the Pagans any ſuch Laws, as they did againſt the Chriſtians.</hi> No man verſed in Antiquity can deny but that all the Sects of the Chriſtians, the Pagans, and the Jews, had a full Liberty of Conſcience and Religion, without being excluded from publick offices of Truſt and Profit in the Se<g ref="char:EOLhyphen"/>nate, Army and Court. So that theſe times which our Epiſ<g ref="char:EOLhyphen"/>copal Divines ſo much recommend unto our imitation, when their Hierachy is concerned, and their Ceremonies, theſe times do clearly aſſert the lawfulneſs of a General Liberty of Conſcience, without ſubjecting the ſeveral diſſenters to any penalties. The Heathen had their Prieſts, their <hi>Pon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>fices, Augures, Quindecim viros ſacris faciundis, Salios, &amp;c.</hi> untill the time of <hi>Theodoſius.</hi>
+               <note n="*" place="margin">Onuphrius deſcr. arb. tom. <hi>lib. 2.</hi>
+               </note> The <hi>Arrians</hi> had their Bi<g ref="char:EOLhyphen"/>ſhops; the <hi>Novatians</hi> their Biſhops, and Churches (not to mention other Sects) in the ſame Dioceſſes in which the
+<pb n="9" facs="tcp:66395:5"/>more orthodox Biſhops had alſo their juriſdiction, and made up the national religion of the <hi>Roman Empire.</hi> The <hi>Jewes</hi> alſo had their <hi>Academies</hi> and <hi>Patriarchs.</hi> From all which I do conclude, that it is lawful to enact for Liberty of Con<g ref="char:EOLhyphen"/>ſcience; and that ſuch Acts are not inconſiſtent with Go<g ref="char:EOLhyphen"/>vernment, nor ſubject to thoſe inconveniencies many ſug<g ref="char:EOLhyphen"/>geſt; ſince ſuch Monarchies have flouriſhed notwithſtand<g ref="char:EOLhyphen"/>ing them: All thoſe conjectures are refuted by the aforeſaid inſtances. Nor need they trouble themſelves to object, that the <hi>Roman Empire</hi> had a ſtanding Army to preſerve the Peace and Authority of the <hi>Empire;</hi> ſeeing that thoſe of that Army were diverſify'd by their ſeveral Religions: and it is all one not to have any Army at all, or to have one com<g ref="char:EOLhyphen"/>poſed indifferently of the ſeveral parties that were to be kept under.</p>
+            <p>Having thus laid before you the judgement and practiſe of the beſt times; it will not be amiſs to reflect upon the ſeveral ways and endeavours have been uſed toward the uniting the minds of men about Religion.</p>
+            <p>As to the Popiſh way of inforcing a general Uniformity, it is ſo barbarous, ſo unchriſtian, and ſo generally rejected by Proteſtants, that I believe you cannot endure an harangue in the behalf of the inquiſition: and to extoll the practiſes of Queen <hi>Mary</hi>'s days were as abſurd, as to write an <hi>Enco<g ref="char:EOLhyphen"/>mium</hi> for <hi>Phalaris,</hi> or <hi>Buſiris,</hi> or <hi>Nere.</hi>
+            </p>
+            <p>Another way of Uniting them hath been by contriving general forms and wayes, (not much unlike the Device of Comprehenſion, if I underſtand it aright) to which each par<g ref="char:EOLhyphen"/>ty might ſubſcribe: but this way God never bleſſed, but it proved like the fire-brands, which (with the cords) united the tails of <hi>Sampſons</hi> foxes, while their heads were at di<g ref="char:EOLhyphen"/>ſtance; and being put into the corn, they burnt it; as this method hath ſet all Kingdoms on fire. Nor is it Policy; for inſtead of abrogating all, it gives a countenance to all opini<g ref="char:EOLhyphen"/>ons it would extinguiſh. How little are the controverſies ceaſed between the <hi>Dominicans</hi> and <hi>Jeſuites,</hi> ſince the equi<g ref="char:EOLhyphen"/>vocal Council of <hi>Trent,</hi> to which they ſubſcribe; and which both parties alledge? So among Proteſtants, how little are
+<pb n="10" facs="tcp:66395:6"/>controverſies extinguiſhed by the dubious or general texts of Scripture? nay, are they not eterniſed by them? how lit<g ref="char:EOLhyphen"/>tle doth the dubious Creed of the Apoſtles conduce to the deciding among Proteſtants or <hi>Socinians?</hi>
+            </p>
+            <p>As to the uniting therefore of mens minds into one Reli<g ref="char:EOLhyphen"/>gion, it is impoſſible; it is as impoſſible to make all mens con<g ref="char:EOLhyphen"/>ſciences of the ſame extent and latitude, as to make all mens ſhooes of the ſame ſize. Different gifts make different pro<g ref="char:EOLhyphen"/>feſſions: ſince none is accountable for more then he hath re<g ref="char:EOLhyphen"/>ceived. The weak are not to condemn the ſtrong; and the ſtrong are to tollerate, not deſtroy the weak. This is Goſpel. and I hope you will make this to be Law. Take away the condemning of the one, and the oppreſſion of the other, and you will eſtabliſh the Church, rather then deſtroy it, or the peace of this Nation. Beſides,</p>
+            <p>I deſire you would obſerve that there is no preſident of any Liberty of Conſcience granted on penalties: for that unavoidably eſtabliſheth a faction: for it is natural for man<g ref="char:EOLhyphen"/>kind to deſire to be at eaſe, and to wiſh, and (upon occaſion) to endeavour its redreſs and relief from any grievance; and it is as natural for ſuch as reap benefit from the depreſſion of others, to ſtrive to continue them in that oppreſſed conditi<g ref="char:EOLhyphen"/>on: from hence ariſeth anger, hatred, malice, and all uncha<g ref="char:EOLhyphen"/>ritableneſs, and ſuch contention as deſtroys a State. <hi>If a Kingdom be divided, how can it ſtand?</hi> as all things different are not oppoſite: no more is all diſtinction a factious divi<g ref="char:EOLhyphen"/>ſion, and deſtructive to the being of a Government. All you make up one Parliament: perſonal quarrels may ruine you, but perſonal diſtinctions will not. Contrarieties mutually expel each other out of the ſame ſubject by courſe of na<g ref="char:EOLhyphen"/>ture, things diſparat do not.</p>
+            <p>Since therefore a Popiſh Inquiſition is barbarous and odi<g ref="char:EOLhyphen"/>ous; ſubſcribing to general forms and opinions dangerous, and ineffectual; uniting mens minds into one religion im<g ref="char:EOLhyphen"/>poſſible; and no liberty granted upon penalties: What other way is left us to unite, but to allow each Church its ſeveral way of worſhip? which kind uſage with moderate endea<g ref="char:EOLhyphen"/>vours, and not impoſing general opinions, may in time (as
+<pb n="11" facs="tcp:66395:6"/>it was of old) ſo far prevail with them to reconcile the dif<g ref="char:EOLhyphen"/>ferences among themſelves, that at laſt they may arrive to a mutual communion, though not an exact Uniformity. Thus the <hi>Millenaries</hi> of old, and <hi>Fifth Monarchy</hi> men communica<g ref="char:EOLhyphen"/>ted with the other <hi>Chriſtians:</hi> and ſo it was with Mr. <hi>Mead</hi> and the Church of <hi>England:</hi> Thus the baptized <hi>Chriſtians</hi> and the <hi>Anabaptiſts</hi>
+               <note n="(*)" place="margin">As <hi>Ter<g ref="char:EOLhyphen"/>tullion Nazian<g ref="char:EOLhyphen"/>zen,</hi> the Em<g ref="char:EOLhyphen"/>perours <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> and <hi>Valentinian.</hi>
+               </note> made up one Church: Thus the Ju<g ref="char:EOLhyphen"/>daiſing <hi>Chriſtians</hi> and <hi>Gentiles</hi> communicated together; So did the <hi>Arrians</hi>
+               <note n="(†)" place="margin">V. <hi>Euſe<g ref="char:EOLhyphen"/>bius.</hi>
+               </note> and <hi>Trinitarians.</hi> And methinks it is odd, that the Church of <hi>England</hi> ſhould ſuffer our tutelar Saint to be St. <hi>George,</hi>
+               <note n="(a)" place="margin">As <hi>Calvin</hi> ſaith.</note> that <hi>Arrian</hi> Biſhop, and yet not allow the communion of any favour to an <hi>Anabaptiſt,</hi> or fifth <hi>Monarchiſt.</hi> Such a communion I ſay, were to be wiſh'd, and the only way we can hope for at preſent to unite us, is to al<g ref="char:EOLhyphen"/>low<note n="(b)" place="margin">
+                  <hi>Conſtantine</hi> and the ſub<g ref="char:EOLhyphen"/>ſequent Em<g ref="char:EOLhyphen"/>perors main<g ref="char:EOLhyphen"/>tained at their charge, the variety of Re<g ref="char:EOLhyphen"/>ligions, Prieſts and Sacrifices: As there had been at <hi>Anti<g ref="char:EOLhyphen"/>och</hi> one <hi>Anti<g ref="char:EOLhyphen"/>och,</hi> one Apo<g ref="char:EOLhyphen"/>ſtle for the <hi>Jews,</hi> and an<g ref="char:EOLhyphen"/>other for the <hi>Gentiles;</hi> ſo there were afterwards in the ſame Ci<g ref="char:EOLhyphen"/>ties, beſides the different Heathen Prieſts, Bi<g ref="char:EOLhyphen"/>ſhops to the <hi>Novatians, Arrians, Donatiſts,</hi> and <hi>Catholicks.</hi>
+               </note> each Church its ſeveral way of worſhip, they main<g ref="char:EOLhyphen"/>taining their Miniſters: all reproachful language, and odious conſequences impoſed upon each party, as well as odious names, being prohibited: as were the names of <hi>Heretick</hi> and <hi>Sciſmatick</hi> by Qu. <hi>Eliz.</hi> This courſe hath ſucceeded well; for under it Religion grew: and whilſt Religion was no mans Intereſt, it was ſcarce any mans Hypocriſie: when truth had no other recommendations but its naked ſelf, ſuch as imbraced it did it cordially. Nor was it ever demonſtra<g ref="char:EOLhyphen"/>ted, or can be, that the uſe of this Liberty did directly and neceſſarily introduce ſuch factions as are inconſiſtent with any Government or Monarchy. And if it were onely the a<g ref="char:EOLhyphen"/>buſe of it; let us look to that: ſince the Church of <hi>England</hi> ſo often inculcates to us, that <hi>propter abuſum non eſt tollendus uſus:</hi> for that were like the forbidding<note n="(c)" place="margin">
+                  <hi>Ariſtotle</hi> condemns that Paralo<g ref="char:EOLhyphen"/>giſm of <hi>Anacharſis.</hi>
+               </note> the <hi>Scythians</hi> to plant wine, becauſe wine might make them drunk. To conclude all therefore, Let us in our Law be as tender of Mens Conſciences, as our Common Law is of their lives; which takes care rather that a thouſand Criminals ſhould eſcape, then one innocent be deſtroyed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
